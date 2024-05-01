@@ -27,7 +27,7 @@ app.post("/", (req, res)=>{
 })
 app.get("/", (req, res)=>{
     res.json({
-        server: "MusicArtApp server",
+        server: "SwipTory server",
     });
 })
 
